@@ -3,7 +3,7 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
+Hello World
 Web developer
 
 Show Contacts
